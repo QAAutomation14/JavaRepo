@@ -1,0 +1,102 @@
+#Naming Convention = Industry Standards follow
+
+1. Project-> File-New-JavaProject
+    Do's=== Use Alphabets upper case, Use PascalCase, Use AlphaNumberic     
+     e.g.     JavaBasic, SBIPayment, FBModule1  
+     
+    Don't== Can't use space, special char, starting with numeric value  
+            21231Abc, @!@%^^&&*AVhsda36r, 
+    
+    
+2. package->src--rightclick-new-pkg
+
+       domainName.projectName.muduleName.environmentName
+
+       com.google.gmail.qa
+       com.google.gmail.dev    
+       
+    Do's==> Always use lower case, use domain name, 
+    com.google.gmail.qa, com.google.gmail.dev, org.java.itv.qa
+    
+    Don't==> Can't use space, special char, no underscore 
+    @!@%^^&&*AVhsda36r.sfaYAFY  34636723.SGAJSGUSAU
+    
+    
+    
+3. Class->pkg-rightclick-new-class   Can be noun
+    Do's=== Use Alphabets upper case, Use PascalCase, Use AlphaNumberic     
+     e.g.     JavaBasic, SBIPayment, FBModule1  
+     
+    Don't== Can't use space, lower case, special char, starting with numeric value  
+            21231Abc, @!@%^^&&*AVhsda36r, 
+            
+            
+ 4. Method->inside the class- perform some specific task- verb 
+    Do's=== Use Alphabets , Use camelCase, Use AlphaNumeric     
+     e.g.     calculateMath(), run(), test() 
+     
+    Don't== Can't use space, upper case, special char, starting with numeric value  
+            21231Abc, @!@%^^&&*AVhsda36r, 
+ 
+  5. variable->inside the class and method-It hold some value. 
+    Do's=== Use Alphabets , Use camelCase, Use AlphaNumeric     
+     e.g.     calculateMath, fb_run3232, fb_test1 
+     
+    Don't== Can't use space, upper case, special char, starting with numeric value  
+            21231Abc, @!@%^^&&*AVhsda36r,  
+            
+            
+   6. Interface- blueprint of the class
+              Do's=== Use Alphabets upper case, Use PascalCase, Use AlphaNumberic     
+     e.g.     JavaBasic, SBIPayment, FBModule1  
+     
+    Don't== Can't use space, lower case, special char, starting with numeric value  
+            21231Abc, @!@%^^&&*AVhsda36r,    
+            
+            
+  Operators-
+  
+  1. Unary =numeric
+  
+  2. Arithmetic Operator== numeric  
+        
+       +, -, /, *, %
+       
+  =, ==, equals, eaualandignore    
+            
+     3. Relational===Boolean value
+     >, <, <=, >=, ==, !=       
+            
+     4. Assignment operator- 
+     
+     =, +=, -=, /=, %=, *= 
+     
+     F22- 20 lakhs lines of code 
+ 
+ ##variable-  Its is a memory loation/address
+     > It holds some value. 
+     >it can be changed/varry 
+     
+     Types- Local variable
+     Static/Global variable
+     Instance or non-static variable
+     
+     Local variable
+     inside the method
+     
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                     
+            
